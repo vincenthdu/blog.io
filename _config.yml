@@ -1,7 +1,7 @@
 # Site settings
-title: 身边有草叶 # 你的博客名字，可以定义修订
-header-img: "img/webwxgetmsgimg1.jpg"
-tagline: "口号" #"cn"  
+title: [身边有草叶] # 你的博客名字，可以定义修订
+header-img: "img/webwxgetmsgimg.jpg"
+tagline: "medog"  #"cn"
 description: "知下学而自然上达"  # 一句话描述你的博客
 baseurl: ""
 url: "http://medogpia.com/"  # 此处填写你的博客地址 
@@ -13,8 +13,8 @@ owner:
   bio: "不得于天而不怨天，不合于人而不尤人，但知下学而自然上达。此但自言其反己自修，循序渐进耳，无以甚异于人而致其知也。然深味其语意，则见其中自有人不及知而天独知之之妙。" # 填写作者信息：博客描述
 
 # Data
-gavatar: img/favicon.png # 浏览器地址栏小图标，可自定义更改
-favicon: img/favicon.png # 浏览器地址栏小图标，可自定义更改
+gavatar: img/webwxgetmsgimg2.jpg # 浏览器地址栏小图标，可自定义更改
+favicon: img/webwxgetmsgimg2.jpg # 浏览器地址栏小图标，可自定义更改
 
 douban_username:  # 你的豆瓣id
 twitter_username: 
