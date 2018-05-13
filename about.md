@@ -1,11 +1,18 @@
 ---
 layout: page
-title: "About"
-description: "你的博客描述 " 
-header-img: "img/green.jpg"
+title: "墨脱邦"
+description: "近者悦 远者来" 
+header-img: "img/webwxgetmsgimg1.jpg"
 ---
 
-这一页填写你的自我介绍。
+若为自由故：
+1. 不是疯魔不成活 一颠一笑任君说
+2. 问渠那得清如许 为有源头活水来
+3. 唯大英雄能本色 是真名士自风流
+4. 非淡泊无以明志 非宁静无以致远
+5. 纸上得来终觉浅 绝知此事要躬行
+6. 千淘万漉虽辛苦 吹尽狂沙始到金
+
 
 
 
