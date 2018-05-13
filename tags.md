@@ -2,10 +2,10 @@
 layout: page
 title: "Tags"
 description: "哪里想看点哪里"  
-header-img: "img/semantic.jpg"  
+header-img: "img/webwxgetmsgimg2.jpg"  
 ---
 
-基因列表:
+基因列表:<br>
 <div id='tag_cloud'>
 {% for tag in site.tags %}
 <a href="#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}">{{ tag[0] }}</a>
