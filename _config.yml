@@ -1,5 +1,6 @@
 # Site settings
-title: 身边有草叶 # 你的博客名字，可以定义修订
+title: 身边有草叶
+<font color=red face="黑体">我是黑体字</font>
 header-img: "img/common/6.jpg"
 tagline: "medog"  #"cn"
 description: "知下学而自然上达"  # 一句话描述你的博客
