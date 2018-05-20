@@ -1,6 +1,6 @@
 # Site settings
 title: 身边有草叶 # 你的博客名字，可以定义修订
-header-img: "img/webwxgetmsgimg.jpg"
+header-img: "img/common/6.jpg"
 tagline: "medog"  #"cn"
 description: "知下学而自然上达"  # 一句话描述你的博客
 baseurl: ""
@@ -44,7 +44,7 @@ defaults:
     values:
       layout: "post"
       author: "占得人间一味愚" # 你的名字
-      header-img: "img/webwxgetmsgimg1.jpg" # We don't want posts without a header image, that whould mean white on white
+      header-img: "img/common/22.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
