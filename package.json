@@ -18,5 +18,8 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll.git"
+    },
+    "dependencies": {
+        "hexo-asset-image": "git+https://github.com/CodeFalling/hexo-asset-image.git"
     }
 }
