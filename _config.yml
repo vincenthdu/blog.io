@@ -17,12 +17,12 @@ owner:
 gavatar: img/favicon.png # 浏览器地址栏小图标，可自定义更改
 favicon: img/favicon.png # 浏览器地址栏小图标，可自定义更改
 
-douban_username:  gaarahe
+douban_username:
 twitter_username: 
 github_username: 
 facebook_username: 
 weibo_username: gaarahe@163.com
-zhihu_username: gaarahe
+zhihu_username: 
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -61,5 +61,5 @@ google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 widgets:
-- links
+
 # Links to include in footer navigation
